@@ -29,8 +29,21 @@ h2 {
     text-align: center;
 
 }
+
+#sectitle1 {   
+    background-color: #FB9191;
+}
+
+#sectitle2{  
+    background-color: #78F1CD;
+}
+
+#sectitle3{
+    background-color: #F7FB65;
+}
+
 section{
-    background-color: violet;
+    background-color: #CBA1E4;
     padding: 10px;
     position: relative;
     border: 2px solid black;
