@@ -21,9 +21,11 @@ h2 {
     position: relative;
     top: 0px;
     right: 0px;
+    padding: 2px;
     margin-top: -12px;
     margin-right: -12px;
     margin-left: 75%;
+    margin-bottom: 5px;
     font-size: 125%;
     border: 2px solid black;
     text-align: center;
@@ -34,15 +36,15 @@ h2 {
     background-color: #FB9191;
 }
 
-#sectitle2{  
+#sectitle2 {  
     background-color: #78F1CD;
 }
 
-#sectitle3{
+#sectitle3 {
     background-color: #F7FB65;
 }
 
-section{
+section {
     background-color: #CBA1E4;
     padding: 10px;
     position: relative;
@@ -53,7 +55,7 @@ section{
     margin-bottom: 0%;
 }
 
-@media(min-width: 992px){
+@media(min-width: 992px) {
     .col-lg-4 {
         width:31.3%;
         float:left;
@@ -61,7 +63,7 @@ section{
 
 }
 
-@media(min-width: 768px) and (max-width: 991px){
+@media(min-width: 768px) and (max-width: 991px) {
     .col-md-6 {
         float:left;
         width:48%;
@@ -75,7 +77,7 @@ section{
     
 }
 
-@media(max-width: 767px){
+@media(max-width: 767px) {
     .col-sm-12 {
         float:left;
         width:98%;
