@@ -51,8 +51,8 @@ section {
     border: 2px solid black;
     margin-left: 1%;
     margin-right: 1%;
-    margin-top: 2%;
-    margin-bottom: 0%;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 
 @media(min-width: 992px) {
